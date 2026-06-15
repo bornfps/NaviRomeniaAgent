@@ -15,7 +15,7 @@ de conhecimento em Prolog (fatos + regras) e **(3)** busca em espaço de estados
 > Matrículas a preencher.
 >
 > - João Pedro Silva — _(matrícula)_
-> - Arthur Lima Gomes — _(matrícula)_
+> - Arthur Lima Gomes — _UC24200432_
 > - Tiago Alexsander — _(matrícula)_
 > - Caio Victor Veras — _(matrícula)_
 > - Guilherme do Couto — _(matrícula)_
